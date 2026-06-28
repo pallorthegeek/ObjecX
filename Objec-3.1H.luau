@@ -150,10 +150,6 @@ local FUNCTION_REVERSE_MAP = {}
 local ENV_FUNCTION_VIEW = { executor = {}, game = {} }
 local ENV_FUNCTION_MODIFIED = { executor = {}, game = {} }
 
--- Settings
--- Path constants for config persistence
-local OBJEC_CONFIG_PATH = "root_a0/sys/objec.cfg"
-
 -- Hook Chain Management
 -- Maintain separate hook chains for game and executor contexts
 local HOOK_CHAIN_REGISTRY = {}
