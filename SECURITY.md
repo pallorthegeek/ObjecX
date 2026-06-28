@@ -1,0 +1,3 @@
+If any code vulnerabilities are found please notify maintainers appropriately, vulnerabilities include: Detection, Leaks, VM escapes, Security bug and similar categories.
+You should expect some of your security requests to be denied if deemed unapplicable or wrong, expect some delay when deciding on a pending decision or update and PLEASE do not make duplicate security concerns if one already exists, as it wastes time and effort.
+Of your security patch is accepted then congrats, you actually found flaw and we congratulate you for that as it helps us improve and make better "products" or whatever corporates call it. 
