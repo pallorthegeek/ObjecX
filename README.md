@@ -4,6 +4,6 @@ To use ObjecX you must add any version of ObjecX (Without mixing them) in the au
 
 Oh and, by using ObjecX or just running it in general you agree to its license. 
 
-Latest Release: Latest release is **Objec3.H**, releases are indexed by major, minor, and sub version in letter plus a special additive. If you're confused due to additives just look at the date of release!
+Latest Release: Latest release is **Objec3.I**, releases are indexed by major, minor, and sub version in letter plus a special additive. If you're confused due to additives just look at the date of release!
 
 Note/Disclaimer: I am are not affiliated with the ai research team “ObjecX” nor am I trying to copy them to clear any confusion.
